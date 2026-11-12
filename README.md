@@ -49,10 +49,3 @@ In Progress
 This project monitors LPG quantity and predicts refill requirements. It is not a replacement for certified LPG safety or leakage detection systems.
 
 
-Telegram Bot API
-
-Project Status
-
-In Progress
-
-Safety Not
